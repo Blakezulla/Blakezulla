@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blakezulla
-- 👀 I’m interested in Mastering a terminal 
+- 👀 I’m interested in  
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on apps and security 
 - 📫 How to reach me blakpeters@gmail.com
