@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blakezulla
 - 👀 I’m interested in  
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on apps and security 
+- 💞️ I’m looking to collaborate on apps and cyber and security 
 - 📫 How to reach me blakpeters@gmail.com
 
 
